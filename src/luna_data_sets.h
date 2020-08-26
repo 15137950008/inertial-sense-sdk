@@ -16,9 +16,9 @@ extern "C" {
 #endif
 
 
-#define DID_EVB_LUNA_FLASH_CFG          (eDataIDs)110 /** (evb_luna_flash_cfg_t) EVB Luna configuration. */
-#define DID_EVB_LUNA_STATUS             (eDataIDs)111 /** (evb_luna_status_t) EVB Luna status. */
-#define DID_EVB_LUNA_SENSORS            (eDataIDs)112 /** (evb_luna_sensors_t) EVB Luna sensors (proximity, etc.). */
+#define DID_EVB_LUNA_FLASH_CFG          (eDataIDs)100 /** (evb_luna_flash_cfg_t) EVB Luna configuration. */
+#define DID_EVB_LUNA_STATUS             (eDataIDs)101 /** (evb_luna_status_t) EVB Luna status. */
+#define DID_EVB_LUNA_SENSORS            (eDataIDs)102 /** (evb_luna_sensors_t) EVB Luna sensors (proximity, etc.). */
 
 
 PUSH_PACK_1

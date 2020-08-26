@@ -1824,7 +1824,31 @@ const char* cISDataMappings::GetDataSetName(uint32_t dataId)
 		"gps2RtkCmpMisc",		// 92: DID_GPS2_RTK_CMP_MISC
 		"unused_93",			// 93: 
 		"unused_94",			// 94: 
-		"unused_95"				// 95: 
+		"unused_95",			// 95: 
+		"unused_96",			// 96: 
+		"unused_97",			// 97: 
+		"unused_98",			// 98: 
+		"unused_99",			// 99: 
+		"unused_100",			// 100: 
+		"unused_101",			// 101: 
+		"unused_102",			// 102: 
+		"unused_103",			// 103: 
+// 		"unused_104",			// 104: 
+// 		"unused_105",			// 105: 
+// 		"unused_106",			// 106: 
+// 		"unused_107",			// 107: 
+// 		"unused_108",			// 108: 
+// 		"unused_109",			// 109: 
+// 		"unused_110",			// 110: 
+// 		"unused_111",			// 111: 
+// 		"unused_112",			// 112: 
+// 		"unused_113",			// 113: 
+// 		"unused_114",			// 114: 
+// 		"unused_115",			// 115: 
+// 		"unused_116",			// 116: 
+// 		"unused_117",			// 117: 
+// 		"unused_118",			// 118: 
+// 		"unused_119", 			// 119: 
 	};
 
     STATIC_ASSERT(_ARRAY_ELEMENT_COUNT(s_dataIdNames) == DID_COUNT);
